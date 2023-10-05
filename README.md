@@ -11,5 +11,5 @@ Libraries-
 	Dependencies
 	None
 
-Building/ Running-
+Running-
 	Simply run "python pagerank.py" followed by optional arguments in the command prompt.
